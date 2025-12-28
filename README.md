@@ -1,4 +1,4 @@
-# Metadata Cleaner
+# Meta Clean
 
 Metadata Cleaner is a straightforward app that does exactly what it says: removes metadata from your files.
 
