@@ -188,6 +188,6 @@ impl GuiApp {
 }
 
 fn main() {
-    let gui = GuiApp::new("xyz.takashialpha.MetadataCleaner");
+    let gui = GuiApp::new("xyz.takashialpha.MetaClean");
     gui.run();
 }
